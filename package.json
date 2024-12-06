@@ -14,6 +14,9 @@
     "url": "https://github.com/darshk07/js-cli"
   },
   "keywords": [],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "Darsh Kejrwial <darsh.kejriwal@gmail.com>",
   "license": "ISC",
   "description": ""
