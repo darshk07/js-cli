@@ -1,16 +1,20 @@
 {
-  "name": "js-cli",
+  "name": "@darshk07/js-cli",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "js-cli": "./bin/js-cli.js"
+    "js-cli": "bin/js-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./bin/js-cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darshk07/js-cli"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Darsh Kejrwial <darsh.kejriwal@gmail.com>",
   "license": "ISC",
   "description": ""
 }
