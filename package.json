@@ -9,14 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./bin/js-cli.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/darshk07/js-cli"
-  },
   "keywords": [],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "author": "Darsh Kejrwial <darsh.kejriwal@gmail.com>",
   "license": "ISC",
   "description": ""
